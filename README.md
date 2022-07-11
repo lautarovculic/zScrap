@@ -1,4 +1,4 @@
-# zScrap - dolarBlue
+# zScrap - dollarBlue
 
 Unofficial Dollar Value in Argentina.
 
